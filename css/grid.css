@@ -79,3 +79,6 @@ header h1{
     grid-column: 1 / 5; /* séléction sur 3 */
 }
 
+footer *{
+    text-align: center;
+}
